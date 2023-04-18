@@ -193,7 +193,7 @@ int SequenceTypeInput()
     printf("(1): Blocks\n");
     printf("(2): Words\n");
     scanf("%d", &input);
-    if (input == 0) 
+    if (input == 0)
     {
       	i = 1;
       	printf("Cache Memory will be in Bytes\n");
