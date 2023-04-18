@@ -1,0 +1,16 @@
+Total Data Accessed: 12
+Cache hits: 3
+Hit Rate Percentage: 0.250000
+Cache misses: 9
+Miss Rate Percentage: 0.750000
+Miss penalty:  42.000000
+Average Memory Access Time:  31.75
+Total Memory Access Time:  417.00
+Block:  0, 200
+Block:  1, 204
+Block:  2, 24c
+Block:  3, 20c
+Block:  4, 2f4
+Block:  5, 2f0
+Block:  6, 218
+Block:  7, 21c
