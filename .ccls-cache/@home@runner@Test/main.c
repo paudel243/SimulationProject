@@ -182,7 +182,6 @@ void InputDataSequence(struct DataToProcess block[], int size,int sequenceType)
   }
 }
 
-
 int SequenceTypeInput() 
 {
   int input, i = 0;
